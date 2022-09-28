@@ -1,5 +1,6 @@
 # project1.github.io
 This is my Project 1 for Human Computer Interaction Class
+
 For Part C:
   I had chosen the elevator in my apartment building. It is rather simple and easy to use.
   However, I would still make some corrections to the elevator.
