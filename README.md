@@ -7,16 +7,16 @@ For Part C:
   I would keep all the keys (for technicians and firefighters together as they will only have to look in one place for all the keys.
   Other than that I would keep the interface the same.
   
-  https://github.com/aramsing/project1.github.io/blob/main/Elevator%20Outside%20Interface.jpg
-  https://github.com/aramsing/project1.github.io/blob/main/Elevator%20Inside%20Interface.jpg
-  https://github.com/aramsing/project1.github.io/blob/main/Elevator%20Inside%20Video_Trim.gif
+  [Elevator Outside Interface](https://github.com/aramsing/project1.Arjun.Ramsinghani.github.io/blob/main/Elevator%20Outside%20Interface.jpg)
+  [Elevator Inside Interface](https://github.com/aramsing/project1.Arjun.Ramsinghani.github.io/blob/main/Elevator%20Inside%20Interface.jpg)
+  [GIF of Inside Interface](https://github.com/aramsing/project1.Arjun.Ramsinghani.github.io/blob/main/Elevator%20Inside%20Video_Trim.gif)
   
 For Part B:
   For the design of my own elevator, I kept to a traditional design as that will allow for easier response time.
   The technician keys are on the top left and the elevator display screen is on the right.
   The user call buttons are on the center bottom of the console as seen in the picture.
   
-  https://github.com/aramsing/project1.github.io/blob/main/p1.Arjun.Ramsinghani.png
+  [PNG of my design](https://github.com/aramsing/project1.Arjun.Ramsinghani.github.io/blob/main/p1.Arjun.Ramsinghani.png)
   
 For Part A:
   The processing file shows the interface as a gif.
@@ -24,7 +24,6 @@ For Part A:
   The only exception is the call for help and alarm buttons which would only turn off with a technicians key.
   I was not able to get the elevator display screen to work but everything else is working.
   
-  https://github.com/aramsing/project1.github.io/blob/main/p1.Arjun.Ramsinghani.Final.gif
+  [GIF of my processing design](https://github.com/aramsing/project1.Arjun.Ramsinghani.github.io/blob/main/p1.Arjun.Ramsinghani.Final.gif)
   
-Link to Repository:
-https://github.com/aramsing/project1.github.io
+[Link to Repository](https://github.com/aramsing/project1.Arjun.Ramsinghani.github.io)
