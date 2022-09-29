@@ -8,7 +8,9 @@ For Part C:
   Other than that I would keep the interface the same.
   
   [Elevator Outside Interface](https://github.com/aramsing/project1.Arjun.Ramsinghani.github.io/blob/main/Elevator%20Outside%20Interface.jpg)
+  
   [Elevator Inside Interface](https://github.com/aramsing/project1.Arjun.Ramsinghani.github.io/blob/main/Elevator%20Inside%20Interface.jpg)
+  
   [GIF of Inside Interface](https://github.com/aramsing/project1.Arjun.Ramsinghani.github.io/blob/main/Elevator%20Inside%20Video_Trim.gif)
   
 For Part B:
